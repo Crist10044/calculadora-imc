@@ -1,0 +1,15 @@
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\bin\Debug\net7.0\programaIMC.exe
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\bin\Debug\net7.0\programaIMC.deps.json
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\bin\Debug\net7.0\programaIMC.runtimeconfig.json
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\bin\Debug\net7.0\programaIMC.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\bin\Debug\net7.0\programaIMC.pdb
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.csproj.AssemblyReference.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.AssemblyInfoInputs.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.AssemblyInfo.cs
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.csproj.CoreCompileInputs.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\refint\programaIMC.dll
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.pdb
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\programaIMC.genruntimeconfig.cache
+C:\Users\crisl\OneDrive\Área de Trabalho\todos_os_codigos\poo\programaIMC\obj\Debug\net7.0\ref\programaIMC.dll
